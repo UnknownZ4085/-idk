@@ -2,6 +2,7 @@
 "type": "LogicDisplay",
 "name": "Super Display",
 "description": "HD Display for your furry shit!",
+"health": 999999,
 "alwaysUnlocked": true,
 "category": "logic",
 "hidden": false,
