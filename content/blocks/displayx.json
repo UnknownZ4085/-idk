@@ -5,7 +5,6 @@
 "alwaysUnlocked": true,
 "category": "logic",
 "hidden": false,
-"displaySize": 2048,
-"scaleFactor": 9,
+"displaySize": 512,
 "size": 8
 }
