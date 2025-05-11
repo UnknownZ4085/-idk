@@ -3,8 +3,9 @@
 "name": "Super Display",
 "description": "HD Display for your furry shit!",
 "alwaysUnlocked": true,
-"category": "logic"
+"category": "logic",
+"hidden": false,
 "displaySize": 2048,
-"scaleFactor": 0.46875,
-"size": 16
+"scaleFactor": 9,
+"size": 8
 }
